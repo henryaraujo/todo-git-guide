@@ -1,0 +1,23 @@
+{
+  "name": "todo-git-guide",
+  "version": "1.0.0",
+  "description": "Link do [protótipo](https://www.figma.com/file/FUxmQHi809OalEITTujOmo/Untitled?node-id=0%3A1).",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryaraujo/todo-git-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryaraujo/todo-git-guide/issues"
+  },
+  "homepage": "https://github.com/henryaraujo/todo-git-guide#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
